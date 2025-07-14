@@ -23,21 +23,15 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
 
 - ### Post-Master’s Researcher (Feb. 2025 - Current)
 
-  ETRI (Electronics and Telecommunications Research Institute)
-
-
+  - ETRI (Electronics and Telecommunications Research Institute)
   - Developed VLM agent for auotonomous driving with causal reasoning.
 - ### Research Intern (Jan. 2023 - Feb. 2023)
 
-  ETRI (Electronics and Telecommunications Research Institute)
-
-
+  - ETRI (Electronics and Telecommunications Research Institute)
   - Developed action detection model identifying rear light for trajectory prediction.
 - ### Research Intern (Jul. 2022 - Aug. 2022)
 
-  ETRI (Electronics and Telecommunications Research Institute)
-
-
+  - ETRI (Electronics and Telecommunications Research Institute)
   - Developed a tool converting simulation data into a format compatible with state-of-the-art models.
 
 
