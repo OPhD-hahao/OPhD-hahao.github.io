@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Hayeon Oh"
 title_separator          : "-"
 name                     : &name "Hayeon Oh"
 description              : &description "personal description"
@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Hayeon Oh"
   pronouns         : # example: "she/her"  
-  bio: |
-    Researcher @ ETRI
-    Physical AI
+  bio              : "Researcher @ ETRI <br> Physical AI"
   # location         : "ETRI"
   employer         : # "Red Brick University"
   uri              : # URL
