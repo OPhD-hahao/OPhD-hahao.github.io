@@ -10,6 +10,8 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
 
 # Publications
 
+---
+
 - ### LaViPlan : Language-Guided Visual Path Planning with RLVR
 
   - **Hayeon Oh**
@@ -19,7 +21,11 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
   - **Hayeon Oh**, Chanuk Yang, Kunsoo Huh
   - Asian Conference on Computer Vision (**ACCV**) 2024
 
+
+
 # Work Experience
+
+---
 
 - ### Post-Master’s Researcher (Feb. 2025 - Current)
 
@@ -36,6 +42,8 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
 
 
 # Honors and Awards
+
+---
 
 - Special Prize in the Autonomous Electric Vehicle Competition (Oct. 2022) [(link)](https://www.motorgraph.com/news/articleView.html?idxno=30990)
 - Hanyang Brain Schoarship (2019S, 2019F, 2020S, 2022F)
