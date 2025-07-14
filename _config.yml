@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Hayeon Oh"
   pronouns         : # example: "she/her"  
-  bio              : "Harder, Better, Faster, Stronger"
+  bio              : "Physical AI"
   location         : "ETRI"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "oph516@etri.re.kr" 
+  email            : # "oph516@etri.re.kr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=KDQukv0AAAAJ&hl=ko"
+  googlescholar    : # "https://scholar.google.com/citations?user=KDQukv0AAAAJ&hl=ko"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
