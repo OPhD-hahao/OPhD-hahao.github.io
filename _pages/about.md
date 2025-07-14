@@ -31,3 +31,4 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
 - Mar.2023 - Feb.2025 : Hanyang University (Seoul), M.S in Automotive Engineering advised by [Prof. Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php).
 - Mar. 2019 - Feb. 2023 : Hanyang University (Ansan), B.S in Electrical Engineering. (Cum Laude)
+<!-- Trigger rebuild -->
