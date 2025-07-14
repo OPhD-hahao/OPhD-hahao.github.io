@@ -13,15 +13,14 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
 ## Publications
 
-- **LaViPlan : Language-Guided Visual Path Planning with RLVR**<br>**Hayeon Oh**.<br>*International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*.<br>[[page]](TBA)
-
-- **SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics**<br>**Hayeon Oh**, Chanuk Yang, Kunsoo Huh.<br>*Asian Conference on Computer Vision (**ACCV**) 2024*.<br>[[github]](https://github.com/OPhD-hahao/SeSame) [[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
+- **LaViPlan : Language-Guided Visual Path Planning with RLVR**`<br>`**Hayeon Oh**.`<br>`*International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*.`<br>`[[page]](TBA)
+- **SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics**`<br>`**Hayeon Oh**, Chanuk Yang, Kunsoo Huh.`<br>`*Asian Conference on Computer Vision (**ACCV**) 2024*.`<br>`[[github]](https://github.com/OPhD-hahao/SeSame) [[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
 
 ## Work Experience
 
-- **Post-Master’s Researcher**, *Electronics and Telecommunications Research Institute*, Feb. 2025 - Current
-- **Research Intern**, *Electronics and Telecommunications Research Institute*, Jan. 2023 - Feb. 2023
-- **Research Intern**, *Electronics and Telecommunications Research Institute*, Jul. 2022 - Aug. 2022
+- **Post-Master’s Researcher**, ETRI, Feb. 2025 - Current
+- **Research Intern**, ETRI, Jan. 2023 - Feb. 2023
+- **Research Intern**, ETRI, Jul. 2022 - Aug. 2022
 
 ## Honors and Awards
 
