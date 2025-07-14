@@ -10,30 +10,30 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
 
 # Publications
 
-- ##### LaViPlan : Language-Guided Visual Path Planning with RLVR
+- ### LaViPlan : Language-Guided Visual Path Planning with RLVR
 
   **Hayeon Oh**
   International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving
-- ##### SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics
+- ### SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics
 
   **Hayeon Oh**, Chanuk Yang, Kunsoo Huh
   Asian Conference on Computer Vision (**ACCV**) 2024
 
 # Work Experience
 
-- ##### Post-Master’s Researcher (Feb. 2025 - Current)
+- ### Post-Master’s Researcher (Feb. 2025 - Current)
 
   ETRI (Electronics and Telecommunications Research Institute)
 
 
   - Developed VLM agent for auotonomous driving with causal reasoning.
-- ##### Research Intern (Jan. 2023 - Feb. 2023)
+- ### Research Intern (Jan. 2023 - Feb. 2023)
 
   ETRI (Electronics and Telecommunications Research Institute)
 
 
   - Developed action detection model identifying rear light for trajectory prediction.
-- ##### Research Intern (Jul. 2022 - Aug. 2022)
+- ### Research Intern (Jul. 2022 - Aug. 2022)
 
   ETRI (Electronics and Telecommunications Research Institute)
 
