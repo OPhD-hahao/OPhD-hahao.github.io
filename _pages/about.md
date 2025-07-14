@@ -25,11 +25,8 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
 ## Work Experience
 
 - **Post-Master’s Researcher**, *ETRI (Electronics and Telecommunications Research Institute)*, Feb. 2025 - Current
-  - Developed VLM agent for autonomous driving with causal reasoning.
 - **Research Intern**, *ETRI (Electronics and Telecommunications Research Institute)*, Jan. 2023 - Feb. 2023
-  - Developed action detection model identifying rear light for trajectory prediction.
 - **Research Intern**, *ETRI (Electronics and Telecommunications Research Institute)*, Jul. 2022 - Aug. 2022
-  - Developed a tool converting custom data into a format compatible with state-of-the-art models.
 
 ## Honors and Awards
 
