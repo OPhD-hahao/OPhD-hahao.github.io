@@ -8,13 +8,13 @@ redirect_from:
 ---
 I am a post-master researcher at ETRI, working on LLM agents and vision-language-action alignment for autonomous driving. My research focuses on incorporating those to enable interpretable and robust end-to-end autonomous driving.
 
-You can contact me via emails like below:
+You can contact me via email:
 
-- gkdus959 *(at)* hanyang *(at)* ac *(at)* kr
+- gkdus9595 *(at)* hanyang *(at)* ac *(at)* kr
 - oph516 *(at)* etri *(at)* re *(at)* kr
 
 
-### Publications
+## Publications
 
 ---
 
@@ -27,7 +27,7 @@ You can contact me via emails like below:
   - **Hayeon Oh**, Chanuk Yang, Kunsoo Huh
   - Asian Conference on Computer Vision (**ACCV**) 2024
 
-### Work Experience
+## Work Experience
 
 ---
 
@@ -44,14 +44,14 @@ You can contact me via emails like below:
   - ETRI (Electronics and Telecommunications Research Institute)
   - Developed a tool converting custom data into a format compatible with state-of-the-art models.
 
-### Honors and Awards
+## Honors and Awards
 
 ---
 
 - Special Prize in the Autonomous Electric Vehicle Competition (Oct. 2022) [(link)](https://www.motorgraph.com/news/articleView.html?idxno=30990)
 - Hanyang Brain Schoarship (2019S, 2019F, 2020S, 2022F)
 
-### Educations
+## Educations
 
 ---
 
