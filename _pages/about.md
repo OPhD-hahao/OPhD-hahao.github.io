@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Annyeonghaseyo (Hello), I'm Hayeon Oh."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm Hayeon Oh, a post-master researcher at ETRI. I received my B.S. in Electrical Engineering from Hanyang University, ERICA campus, and my M.S. in Automotive Engineering from Hanyang University, where I was advised by Prof.[Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php). My research interests focus on end-to-end autonomous driving, LLM agents for embodied AI, and vision-language-action alignment.
+I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineering from Hanyang University, ERICA campus, and my M.S. in Automotive Engineering from Hanyang University, where I was advised by Prof.[Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php). My research interests focus on end-to-end autonomous driving, LLM agents for embodied AI, and vision-language-action alignment.
 
 # Publications
 
