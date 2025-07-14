@@ -16,8 +16,6 @@ You can contact me via email:
 
 ## Publications
 
----
-
 - LaViPlan : Language-Guided Visual Path Planning with RLVR [(page)](TBA)
 
   - **Hayeon Oh**
@@ -28,8 +26,6 @@ You can contact me via email:
   - Asian Conference on Computer Vision (**ACCV**) 2024
 
 ## Work Experience
-
----
 
 - Post-Master’s Researcher (Feb. 2025 - Current)
 
@@ -46,14 +42,10 @@ You can contact me via email:
 
 ## Honors and Awards
 
----
-
 - Special Prize in the Autonomous Electric Vehicle Competition (Oct. 2022) [(link)](https://www.motorgraph.com/news/articleView.html?idxno=30990)
 - Hanyang Brain Schoarship (2019S, 2019F, 2020S, 2022F)
 
 ## Educations
-
----
 
 - Mar.2023 - Feb.2025 : Hanyang University (Seoul), M.S in Automotive Engineering advised by [Prof. Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php).
 - Mar. 2019 - Feb. 2023 : Hanyang University (Ansan), B.S in Electrical Engineering. (Cum Laude)
