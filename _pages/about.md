@@ -12,12 +12,12 @@ I'm a post-master researcher at ETRI. I received my B.S. in Electrical Engineeri
 
 - ### LaViPlan : Language-Guided Visual Path Planning with RLVR
 
-  **Hayeon Oh**
-  International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving
+  - **Hayeon Oh**
+  - International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving
 - ### SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics
 
-  **Hayeon Oh**, Chanuk Yang, Kunsoo Huh  
-  Asian Conference on Computer Vision (**ACCV**) 2024
+  - **Hayeon Oh**, Chanuk Yang, Kunsoo Huh
+  - Asian Conference on Computer Vision (**ACCV**) 2024
 
 # Work Experience
 
