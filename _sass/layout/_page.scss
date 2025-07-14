@@ -399,3 +399,14 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* About page specific styles */
+.about-page .page__content {
+  h2 {
+    font-size: $type-size-5;
+  }
+
+  p, li, dl {
+    font-size: $type-size-6;
+  }
+}
