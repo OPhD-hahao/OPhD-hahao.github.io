@@ -9,36 +9,26 @@ redirect_from:
 ---
 I am a post-master researcher at ETRI, working on LLM agents and vision-language-action alignment for autonomous driving. My research focuses on incorporating those to enable interpretable and robust end-to-end autonomous driving.
 
-You can contact me via email:
-
-- gkdus9595 *(at)* hanyang *(at)* ac *(at)* kr
-- oph516 *(at)* etri *(at)* re *(at)* kr
-
+Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
 ## Publications
 
-- LaViPlan : Language-Guided Visual Path Planning with RLVR [(page)](TBA)
-
-  - **Hayeon Oh**
-  - International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving
-- SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics [(github)](https://github.com/OPhD-hahao/SeSame), [(paper)](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
-
-  - **Hayeon Oh**, Chanuk Yang, Kunsoo Huh
-  - Asian Conference on Computer Vision (**ACCV**) 2024
+- **LaViPlan : Language-Guided Visual Path Planning with RLVR**
+  **Hayeon Oh**.
+  *International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*.
+  [[page]](TBA)
+- **SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics**
+  **Hayeon Oh**, Chanuk Yang, Kunsoo Huh.
+  *Asian Conference on Computer Vision (**ACCV**) 2024*.
+  [[github]](https://github.com/OPhD-hahao/SeSame) [[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
 
 ## Work Experience
 
-- Post-Master’s Researcher (Feb. 2025 - Current)
-
-  - ETRI (Electronics and Telecommunications Research Institute)
+- **Post-Master’s Researcher**, *ETRI (Electronics and Telecommunications Research Institute)*, Feb. 2025 - Current
   - Developed VLM agent for autonomous driving with causal reasoning.
-- Research Intern (Jan. 2023 - Feb. 2023)
-
-  - ETRI (Electronics and Telecommunications Research Institute)
+- **Research Intern**, *ETRI (Electronics and Telecommunications Research Institute)*, Jan. 2023 - Feb. 2023
   - Developed action detection model identifying rear light for trajectory prediction.
-- Research Intern (Jul. 2022 - Aug. 2022)
-
-  - ETRI (Electronics and Telecommunications Research Institute)
+- **Research Intern**, *ETRI (Electronics and Telecommunications Research Institute)*, Jul. 2022 - Aug. 2022
   - Developed a tool converting custom data into a format compatible with state-of-the-art models.
 
 ## Honors and Awards
