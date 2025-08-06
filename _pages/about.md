@@ -13,17 +13,18 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
 ## Publications
 
-- **LaViPlan : Language-Guided Visual Path Planning with RLVR**
-  **Hayeon Oh**, Chanuk Yang, Kunsoo Huh.
-  International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving.
-- **SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time**
-  Jinwoo Kim, **Hayeon Oh**, Youngmin Oh, Kyounghwan An, Donghwan Lee.
-  International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving.
-- **SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics**
-  **Hayeon Oh**,Chanuk Yang, Kunsoo Huh.
-  *Asian Conference on Computer Vision **(****ACCV****)** 2024*.
-  [[github]](https://github.com/OPhD-hahao/SeSame)[[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
+- **LaViPlan: Language-Guided Visual Path Planning with RLVR**  
+  **Hayeon Oh**  
+  *International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*
 
+- **SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time**  
+  Jinwoo Kim, **Hayeon Oh**, Youngmin Oh, Kyounghwan An, Donghwan Lee  
+  *International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*
+
+- **SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics**  
+  **Hayeon Oh**, Chanuk Yang, Kunsoo Huh  
+  *Asian Conference on Computer Vision (**ACCV**) 2024*  
+  [[github]](https://github.com/OPhD-hahao/SeSame) [[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
 ## Work Experience
 
 - **Post-Master’s Researcher**, ETRI, Feb. 2025 - Current
