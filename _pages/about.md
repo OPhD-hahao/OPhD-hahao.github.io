@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a post-master researcher at ETRI, working on LLM agents and vision-language-action alignment for autonomous driving. My research focuses on incorporating those to enable interpretable and robust end-to-end autonomous driving. You can see my Curriculum Vitae [here](../assets/curriculum_vitae_HayeonOh.pdf) 
+I am a post-master researcher at ETRI, working on LLM agents and vision-language-action alignment for autonomous driving. My research focuses on incorporating those to enable interpretable and robust end-to-end autonomous driving. You can see my Curriculum Vitae [here](../assets/curriculum_vitae_HayeonOh.pdf).
 
 Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
@@ -25,6 +25,7 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
   **Hayeon Oh**, Chanuk Yang, Kunsoo Huh  
   *Asian Conference on Computer Vision (**ACCV**) 2024*  
   [[github]](https://github.com/OPhD-hahao/SeSame) [[paper]](https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html)
+
 ## Work Experience
 
 - **Post-Master’s Researcher**, ETRI, Feb. 2025 - Current
@@ -38,7 +39,7 @@ Email : oph516 *(at)* etri *(at)* re *(at)* kr
 
 ## Educations
 
-- Mar.2023 - Feb.2025 : Hanyang University (Seoul), M.S in Automotive Engineering advised by [Prof. Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php).
-- Mar. 2019 - Feb. 2023 : Hanyang University (Ansan), B.S in Electrical Engineering. (Cum Laude)
+- Mar.2023 - Feb.2025 : Hanyang University, M.S in Automotive Engineering advised by [Prof. Kunsoo Huh](https://archi.hanyang.ac.kr/src/lab_mmc.php).
+- Mar. 2019 - Feb. 2023 : Hanyang University (ERICA), B.S in Electrical Engineering. (Cum Laude)
 
 <!-- Trigger rebuild -->
