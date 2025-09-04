@@ -15,7 +15,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - **LaViPlan: Language-Guided Visual Path Planning with RLVR**  
   **Hayeon Oh**  
-  *International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*
+  *International Conference on Computer Vision (**ICCV**) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving*  
   [[preprint]](https://arxiv.org/abs/2507.12911)
 
 - **SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time**  
