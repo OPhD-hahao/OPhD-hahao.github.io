@@ -12,6 +12,7 @@ I am a post-master researcher at ETRI, working on LLM agents and vision-language
 Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 ## Publications
+
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
@@ -19,7 +20,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
       <span style="font-size: 0.85em;"><i>International Conference on Computer Vision (<b>ICCV</b>) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i></span><br/>
       <a href="https://arxiv.org/abs/2507.12911">preprint</a>
     </div>
-    <img src="../assets/papers/laviplan.png" width="250px" />
+    <img src="../assets/papers/laviplan.png" width="200px" />
   </div>
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
@@ -28,7 +29,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
       <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee</span><br/>
       <span style="font-size: 0.85em;"><i>International Conference on Computer Vision (<b>ICCV</b>) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i></span>
     </div>
-    <img src="../assets/papers/sadwa.png" width="250px" />
+    <img src="../assets/papers/sadwa.png" width="200px" />
   </div>
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
@@ -38,7 +39,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
       <span style="font-size: 0.85em;"><i>Asian Conference on Computer Vision (<b>ACCV</b>) 2024</i></span><br/>
       <a href="https://github.com/OPhD-hahao/SeSame">github</a> | <a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">paper</a>
     </div>
-    <img src="../assets/papers/sesame.png" width="250px" />
+    <img src="../assets/papers/sesame.png" width="200px" />
   </div>
 
 ## Work Experience
