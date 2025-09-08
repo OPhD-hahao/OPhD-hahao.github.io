@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a post-master researcher at ETRI, working on LLM agents and vision-language-action alignment for autonomous driving. My research focuses on incorporating those to enable interpretable and robust end-to-end autonomous driving. You can see my Curriculum Vitae [here](../assets/curriculum_vitae_HayeonOh.pdf).
 
-Email : **oph516@etri.re.kr** or **gkdus9595@hanyang.ac.kr**
+Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 ## Publications
 - <div style="display: flex; align-items: flex-start; justify-content: space-between;">
