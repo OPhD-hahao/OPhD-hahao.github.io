@@ -14,8 +14,8 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 ## Publications
 - <div style="display: flex; align-items: flex-start; justify-content: space-between;">
     <div>
-      LaViPlan: Language-Guided Visual Path Planning with RLVR<br/>
-      <b>Hayeon Oh</b><br/>
+      <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
+      <u>Hayeon Oh</u><br/>
       <i>International Conference on Computer Vision (ICCV) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i><br/>
       <a href="https://arxiv.org/abs/2507.12911">preprint</a>
     </div>
@@ -24,8 +24,8 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between;">
     <div>
-      SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time<br/>
-      Jinwoo Kim, <b>Hayeon Oh</b>, Youngmin Oh, Kyounghwan An, Donghwan Lee<br/>
+      <b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b><br/>
+      Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee<br/>
       <i>International Conference on Computer Vision (ICCV) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i>
     </div>
     <img src="../assets/papers/sadwa.png" width="200px" />
@@ -33,8 +33,8 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between;">
     <div>
-      SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics<br/>
-      <b>Hayeon Oh</b>, Chanuk Yang, Kunsoo Huh<br/>
+      <b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b><br/>
+      <u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh<br/>
       <i>Asian Conference on Computer Vision (ACCV) 2024</i><br/>
       <a href="https://github.com/OPhD-hahao/SeSame">github</a> | <a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">paper</a>
     </div>
