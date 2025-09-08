@@ -15,7 +15,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
-      <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
+      <span style="font-size: 0.95em;"><b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u></span><br/>
       <span style="font-size: 0.85em;"><i>International Conference on Computer Vision (<b>ICCV</b>) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i></span><br/>
       <a href="https://arxiv.org/abs/2507.12911">preprint</a>
@@ -25,7 +25,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
-      <b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b><br/>
+      <span style="font-size: 0.95em;"><b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b></span><br/>
       <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee</span><br/>
       <span style="font-size: 0.85em;"><i>International Conference on Computer Vision (<b>ICCV</b>) 2025 Workshop on the Challenge Of Out Of Label Hazards In Autonomous Driving</i></span>
     </div>
@@ -34,7 +34,7 @@ Email : oph516@etri.re.kr or gkdus9595@hanyang.ac.kr
 
 - <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
-      <b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b><br/>
+      <span style="font-size: 0.95em;"><b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh</span><br/>
       <span style="font-size: 0.85em;"><i>Asian Conference on Computer Vision (<b>ACCV</b>) 2024</i></span><br/>
       <a href="https://github.com/OPhD-hahao/SeSame">github</a> | <a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">paper</a>
