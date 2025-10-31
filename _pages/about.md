@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="font-size: 0.95em; line-height: 1.5;">
-I am a post-master researcher at ETRI, where I work on Vision-Language-Action (VLA) models for autonomous driving. My research focuses on leveraging them to achieve interpretable and robust end-to-end driving systems. You can see my Curriculum Vitae <a href="../assets/curriculum_vitae_HayeonOh.pdf">here</a>.<br><br>
+I am a post-master researcher at Electronics and Telecommunications Research Institute (ETRI), where I work on Vision-Language-Action models for autonomous driving. My research focuses on leveraging them to achieve interpretable and robust end-to-end driving systems. You can see my Curriculum Vitae <a href="../assets/curriculum_vitae_HayeonOh.pdf">here</a>.<br><br>
 Email: gkdus9595@hanyang.ac.kr
 </div>
 
@@ -22,7 +22,7 @@ Email: gkdus9595@hanyang.ac.kr
     <div>
       <span style="font-size: 0.95em;"><b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u></span><br/>
-      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW</b>), 2025</i></span><br/>
+      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</i></span><br/>
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Oh_LaViPlan__Language-Guided_Visual_Path_Planning_with_RLVR_ICCVW_2025_paper.html">paper</a>
     </div>
     <img src="../assets/papers/laviplan.png" width="200px" />
@@ -51,9 +51,9 @@ Email: gkdus9595@hanyang.ac.kr
 ## Work Experience
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
-  <li>Feb. 2025 - Dec. 2025 : Post-Master’s Researcher, Electronics and Telecommunications Research Institute</li>
-  <li>Jan. 2023 - Feb. 2023 : Research Intern, Electronics and Telecommunications Research Institute</li>
-  <li>Jul. 2022 - Aug. 2022 : Research Intern, Electronics and Telecommunications Research Institute</li>
+  <li>Feb. 2025 - Dec. 2025 : Post-Master Researcher, ETRI</li>
+  <li>Jan. 2023 - Feb. 2023 : Research Intern, ETRI</li>
+  <li>Jul. 2022 - Aug. 2022 : Research Intern, ETRI</li>
 </ul>
 
 ## Honors and Awards
