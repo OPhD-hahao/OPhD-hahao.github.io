@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-size: 0.95em; line-height: 1.5;">
 I am a post-master researcher at ETRI, where I work on Vision-Language-Action (VLA) models for autonomous driving. My research focuses on leveraging them to achieve interpretable and robust end-to-end driving systems. You can see my Curriculum Vitae <a href="../assets/curriculum_vitae_HayeonOh.pdf">here</a>.<br><br>
-Email: oph516@kaist.ac.kr or gkdus9595@hanyang.ac.kr
+Email: gkdus9595@hanyang.ac.kr
 </div>
 
 
