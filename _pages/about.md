@@ -67,5 +67,5 @@ Email: gkdus9595 (at) hanyang (dot) ac (dot) kr
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
   <li>2023.03 - 2025.02 : Hanyang University, M.S in Automotive Engineering</li>
-  <li>2019.03 - 2023.02 : Hanyang University, B.S in Electrical Engineering. (Cum Laude)</li>
+  <li>2019.03 - 2023.02 : Hanyang University, B.S in Electrical Engineering. (ERICA, Cum Laude)</li>
 </ul>
