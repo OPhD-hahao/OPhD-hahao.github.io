@@ -51,7 +51,7 @@ Email: gkdus9595 (at) hanyang (dot) ac (dot) kr
 ## Work Experience
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
-  <li>2025.02 - 2025.12 : Electronics and Telecommunications Research Institute, Post-Master Researcher</li>
+  <li>2025.02 - 2025.12 : Electronics and Telecommunications Research Institute, Researcher</li>
   <li>2023.01 - 2023.02 : Electronics and Telecommunications Research Institute, Research Intern</li>
   <li>2022.07 - 2022.08 : Electronics and Telecommunications Research Institute, Research Intern</li>
 </ul>
@@ -66,6 +66,6 @@ Email: gkdus9595 (at) hanyang (dot) ac (dot) kr
 ## Educations
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
-  <li>2023.03 - 2025.02 : Hanyang University, M.S in Automotive Engineering
-  <li>2019.03 - 2023.02 : Hanyang University (E), B.S in Electrical Engineering. (Cum Laude)</li>
+  <li>2023.03 - 2025.02 : Hanyang University, M.S in Automotive Engineering</li>
+  <li>2019.03 - 2023.02 : Hanyang University, B.S in Electrical Engineering. (Cum Laude)</li>
 </ul>
