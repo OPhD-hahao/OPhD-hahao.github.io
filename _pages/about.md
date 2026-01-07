@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <div style="font-size: 0.95em; line-height: 1.5;">
-I am a post-master researcher at Electronics and Telecommunications Research Institute (ETRI), where I work on Vision-Language-Action models for autonomous driving. My research focuses on leveraging them to achieve interpretable and robust end-to-end driving systems. You can see my Curriculum Vitae <a href="../assets/curriculum_vitae_HayeonOh.pdf">here</a>.<br><br>
-Email: gkdus9595@hanyang.ac.kr
+I am currently a research intern at KAIST, conducting research on Vision-Language-Action (VLA) models for autonomous driving. My work aims to enhance the interpretability and robustness of end-to-end autonomous driving systems. You can find my Curriculum Vitae <a href="../assets/curriculum_vitae_HayeonOh.pdf">here</a>.<br><br>
+Email: gkdus9595 (at) hanyang (dot) ac (dot) kr
 </div>
 
 
@@ -51,9 +51,9 @@ Email: gkdus9595@hanyang.ac.kr
 ## Work Experience
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
-  <li>Feb. 2025 - Dec. 2025 : Post-Master Researcher, ETRI</li>
-  <li>Jan. 2023 - Feb. 2023 : Research Intern, ETRI</li>
-  <li>Jul. 2022 - Aug. 2022 : Research Intern, ETRI</li>
+  <li>2025.02 - 2025.12 : Electronics and Telecommunications Research Institute, Post-Master Researcher</li>
+  <li>2023.01 - 2023.02 : Electronics and Telecommunications Research Institute, Research Intern</li>
+  <li>2022.07 - 2022.08 : Electronics and Telecommunications Research Institute, Research Intern</li>
 </ul>
 
 ## Honors and Awards
@@ -66,6 +66,6 @@ Email: gkdus9595@hanyang.ac.kr
 ## Educations
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
-  <li>Mar. 2023 - Feb. 2025 : Hanyang University, M.S in Automotive Engineering advised by <a href="https://scholar.google.com/citations?user=iRQAwt8AAAAJ&hl=ko">Prof. Kunsoo Huh</a></li>
-  <li>Mar. 2019 - Feb. 2023 : Hanyang University, B.S in Electrical Engineering. (ERICA, Cum Laude)</li>
+  <li>2023.03 - 2025.02 : Hanyang University, M.S in Automotive Engineering
+  <li>2019.03 - 2023.02 : Hanyang University (E), B.S in Electrical Engineering. (Cum Laude)</li>
 </ul>

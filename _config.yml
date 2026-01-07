@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Hayeon Oh"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher @ ETRI <br><br> Physical AI"
-  # location         : "ETRI"
+  bio              : "Research Intern @ KAIST"
+  location         : # "KAIST"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : # "oph516@etri.re.kr" 
+  email            : "gkdus9595@hanyang.ac.kr" 
 
   # Academic websites
   academia         : # URL
