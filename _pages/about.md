@@ -45,7 +45,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Kim_SADWA_Fine-Grained_Weather_Awareness_with_Vision-Language_Models_for_Seamless_Autonomous_ICCVW_2025_paper.html">paper</a>
     </div>
     <!-- <img src="../assets/papers/sadwa.png" width="200px" /> -->
-  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
@@ -55,7 +55,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
       <a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">paper</a> | <a href="https://github.com/OPhD-hahao/SeSame">github</a>
     </div>
     <!-- <img src="../assets/papers/sesame.png" width="200px" /> -->
-  </div>
+</div>
 
 
 ### Research Experience
