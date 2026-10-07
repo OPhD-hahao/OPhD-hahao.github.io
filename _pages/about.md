@@ -19,8 +19,8 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <b>Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving</b><br/>
-      <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee<br/>
-      <span style="font-size: 0.85em;"><i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i><br/>
+      <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee</span><br/>
+      <span style="font-size: 0.85em;"><i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i></span><br/>
       <a href="">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="">project page</a> 
     </div>
     <!-- <img src="../assets/papers/main_temp.png" width="200px" /> -->
@@ -31,7 +31,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
     <div>
       <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u><br/>
-      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</i><br/>
+      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</i></span><br/>
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Oh_LaViPlan__Language-Guided_Visual_Path_Planning_with_RLVR_ICCVW_2025_paper.html">paper</a> | <a href="https://github.com/OPhD-hahao/LaViPlan">github</a>
     </div>
     <!-- <img src="../assets/papers/laviplan.png" width="200px" /> -->
@@ -40,8 +40,8 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b><br/>
-      <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee<br/>
-      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025 <b>(best paper award)</b></i> <br/>
+      <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee</span><br/>
+      <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025 <b>(best paper award)</b></i></span> <br/>
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Kim_SADWA_Fine-Grained_Weather_Awareness_with_Vision-Language_Models_for_Seamless_Autonomous_ICCVW_2025_paper.html">paper</a>
     </div>
     <!-- <img src="../assets/papers/sadwa.png" width="200px" /> -->
@@ -50,8 +50,8 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b><br/>
-      <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh<br/>
-      <span style="font-size: 0.85em;"><i>Asian Conference on Computer Vision (ACCV) 2024</i><br/>
+      <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh</span><br/>
+      <span style="font-size: 0.85em;"><i>Asian Conference on Computer Vision (ACCV) 2024</i></span><br/>
       <a href="https://openaccess.thecvf.com/content/ACCV2024/html/O_SeSame_Simple_Easy_3D_Object_Detection_with_Point-Wise_Semantics_ACCV_2024_paper.html">paper</a> | <a href="https://github.com/OPhD-hahao/SeSame">github</a>
     </div>
     <!-- <img src="../assets/papers/sesame.png" width="200px" /> -->
@@ -121,9 +121,6 @@ Blasphemous, FAITH: The Unholy Trinity, Diablo (IV), Fear and Hunger (I & II), L
 <div style="display: flex; align-items: center;">
   <img src="../images/Tory_chad.png" width="29%" alt="Tory">
   <img src="../images/Tory_baby.png" width="45%" alt="Tory">
-  <!-- <p style="margin-left: 20px;">
-    Greetings, Hooman. <br> I'm orange and boy cat. <br> My primary area of academic research is focused on the development and consumption of chicken-flavored delicacies.
-  </p> -->
 </div>
 
   Hello, hooman. I'm Tory, super-mega-giga-chad orange boy cat. <br>
