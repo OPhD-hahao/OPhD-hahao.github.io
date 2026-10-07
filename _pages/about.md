@@ -29,7 +29,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <div class="publication">
     <div>
       <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
-      <span style="font-size: 0.9em;"><u>Hayeon Oh</u><br/></span>
+      <span style="font-size: 0.9em;"><u>Hayeon Oh</u></span><br/>
       <span style="font-size: 0.85em;"><i>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</i></span><br/>
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Oh_LaViPlan__Language-Guided_Visual_Path_Planning_with_RLVR_ICCVW_2025_paper.html">paper</a> | <a href="https://github.com/OPhD-hahao/LaViPlan">github</a>
     </div>
