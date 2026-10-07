@@ -405,3 +405,18 @@
 .about-page .page__content {
   font-size: 0.85em;
 }
+
+
+.about-page .publication {
+  font-size: 0.85em;
+  line-height: 1.4;
+  margin-bottom: 30px;
+}
+
+.about-page .publication:last-child {
+  margin-bottom: 0;
+}
+
+.about-page .page__content details {
+  font-size: 0.85em;
+}
