@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 0.95em; line-height: 1.5;">
 
 I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware Vision-Language-Action models for autonomous driving and robotics, with an emphasis on latent reasoning, metacognition-driven reasoning adaptation, and safe decision-making.
 
+
 #### Publications
+
 ---
 
-- <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <span style="font-size: 0.95em;"><b>Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee</span><br/>
@@ -23,10 +24,10 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
       <a href="">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="">project page</a> 
     </div>
     <!-- <img src="../assets/papers/main_temp.png" width="200px" /> -->
-  </div>
+</div>
 
 
-- <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <span style="font-size: 0.95em;"><b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u></span><br/>
@@ -34,9 +35,9 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
       <a href="https://openaccess.thecvf.com/content/ICCV2025W/2COOOL/html/Oh_LaViPlan__Language-Guided_Visual_Path_Planning_with_RLVR_ICCVW_2025_paper.html">paper</a> | <a href="https://github.com/OPhD-hahao/LaViPlan">github</a>
     </div>
     <!-- <img src="../assets/papers/laviplan.png" width="200px" /> -->
-  </div>
+</div>
 
-- <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <span style="font-size: 0.95em;"><b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b></span><br/>
       <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee</span><br/>
@@ -46,7 +47,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
     <!-- <img src="../assets/papers/sadwa.png" width="200px" /> -->
   </div>
 
-- <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
     <div>
       <span style="font-size: 0.95em;"><b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b></span><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh</span><br/>
@@ -56,7 +57,9 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
     <!-- <img src="../assets/papers/sesame.png" width="200px" /> -->
   </div>
 
+
 #### Research Experience
+
 ---
 
 <ul style="font-size: 0.95em; line-height: 1.4; list-style-type: disc; padding-left: 20px;">
@@ -80,7 +83,9 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
   </li>
 </ul>
 
+
 #### Honors and Awards
+
 ---
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
@@ -89,7 +94,9 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
   <li>Hanyang Brain Schoarship (2019S, 2019F, 2020S, 2022F)</li>
 </ul>
 
+
 #### Educations
+
 ---
 
 <ul style="font-size: 0.95em; line-height: 1.4;">
@@ -98,14 +105,18 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
   <li>2019.03 - 2023.02 : Hanyang University, B.S in Electrical Engineering (ERICA, Cum Laude)</li>
 </ul>
 
+
 #### Academic Services
+
 ---
 
 
 - Conference Reviewer : ICML 2026, NeurIPS 2026, AAAI 2027
 - Journal Reviewer : IEEE T-IV
 
+
 #### Misc
+
 ---
 
 
@@ -113,7 +124,9 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <summary>I love dark lore</summary>
 
 - Game : Blasphemous, FAITH: The Unholy Trinity, Diablo (IV), Fear and Hunger (I & II), Look Outside
+
 - Anime : Chiikawa, Hellsing
+
 </details>
 
 
@@ -121,7 +134,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <summary>and my research assistant</summary>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Tory_chad.png" width="30%" alt="Tory">
+  <img src="../images/Tory_chad.png" width="29%" alt="Tory">
   <img src="../images/Tory_baby.png" width="45%" alt="Tory">
   <!-- <p style="margin-left: 20px;">
     Greetings, Hooman. <br> I'm orange and boy cat. <br> My primary area of academic research is focused on the development and consumption of chicken-flavored delicacies.
