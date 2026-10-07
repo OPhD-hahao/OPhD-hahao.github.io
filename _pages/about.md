@@ -16,7 +16,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div class="publication">
     <div>
       <b>Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee</span><br/>
@@ -27,7 +27,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 </div>
 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div class="publication">
     <div>
       <b>LaViPlan: Language-Guided Visual Path Planning with RLVR</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u><br/>
@@ -37,7 +37,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
     <!-- <img src="../assets/papers/laviplan.png" width="200px" /> -->
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div class="publication">
     <div>
       <b>SADWA: Fine-Grained Weather Awareness with Vision-Language Models for Seamless Autonomous Driving in Real Time</b><br/>
       <span style="font-size: 0.9em;">Jinwoo Kim, <u>Hayeon Oh</u>, Youngmin Oh, Kyounghwan An, Donghwan Lee</span><br/>
@@ -47,7 +47,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
     <!-- <img src="../assets/papers/sadwa.png" width="200px" /> -->
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+<div class="publication">
     <div>
       <b>SeSame: Simple, Easy 3D Object Detection with Point-Wise Semantics</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Chanuk Yang, Kunsoo Huh</span><br/>
