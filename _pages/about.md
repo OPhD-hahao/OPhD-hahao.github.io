@@ -12,7 +12,7 @@ redirect_from:
 I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware Vision-Language-Action models for autonomous driving and robotics, with an emphasis on latent reasoning, metacognition-driven reasoning adaptation, and safe decision-making.
 
 
-#### Publications
+# Publications
 
 ---
 
@@ -58,7 +58,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
   </div>
 
 
-#### Research Experience
+# Research Experience
 
 ---
 
@@ -84,7 +84,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 </ul>
 
 
-#### Honors and Awards
+# Honors and Awards
 
 ---
 
@@ -95,7 +95,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 </ul>
 
 
-#### Educations
+# Educations
 
 ---
 
@@ -106,7 +106,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 </ul>
 
 
-#### Academic Services
+# Academic Services
 
 ---
 
@@ -115,7 +115,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 - Journal Reviewer : IEEE T-IV
 
 
-#### Misc
+# Misc
 
 ---
 
@@ -123,9 +123,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <details>
 <summary>I love dark lore</summary>
 
-- Game : Blasphemous, FAITH: The Unholy Trinity, Diablo (IV), Fear and Hunger (I & II), Look Outside
-
-- Anime : Chiikawa, Hellsing
+Blasphemous, FAITH: The Unholy Trinity, Diablo (IV), Fear and Hunger (I & II), Look Outside, Chiikawa, Hellsing
 
 </details>
 
