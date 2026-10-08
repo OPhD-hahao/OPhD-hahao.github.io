@@ -16,12 +16,14 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 
 ---
 
+
+<!-- BELOW is the current publications -->
 <div class="publication">
     <div>
       <b>Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee</span><br/>
       <span style="font-size: 0.85em;"><i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i></span><br/>
-      <a href="">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="">project page</a> 
+      <a href="">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="https://ophd-hahao.github.io/projects/Rethink-CF">project page</a> 
     </div>
 </div>
 
@@ -60,7 +62,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 
 ---
 
-<ul style="font-size: 0.95em; line-height: 1.4; list-style-type: disc; padding-left: 20px;">
+  
   <li>Electronics and Telecommunications Research Institute (ETRI)
     <ul style="list-style-type: circle; padding-left: 20px;">
       <li>2025.02 - 2025.12 : Post-Master Researcher</li>
@@ -98,7 +100,8 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 ---
 
 - Conference Reviewer : ICML 2026, NeurIPS 2026, AAAI 2027
-- Journal Reviewer : IEEE T-IV
+- Journal Reviewer : IEEE Transactions on Intelligent Vehicles (T-IV)
+
 
 
 ### Misc
