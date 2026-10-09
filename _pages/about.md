@@ -62,7 +62,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 
 ---
 
-  
+<ul style="font-size: 0.95em; line-height: 1.4; list-style-type: disc; padding-left: 20px;">
   <li>Electronics and Telecommunications Research Institute (ETRI)
     <ul style="list-style-type: circle; padding-left: 20px;">
       <li>2025.02 - 2025.12 : Post-Master Researcher</li>
