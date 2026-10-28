@@ -80,7 +80,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
 <ul style="font-size: 0.95em; line-height: 1.4;">
   <li> Gold Reviewer @ ICML 2026</li>
   <li>Special Prize in the Autonomous Vehicle Competition (Oct. 2022) <a href="https://www.motorgraph.com/news/articleView.html?idxno=30990">(link)</a></li>
-  <li>Hanyang Brain Schoarship (2019S, 2019F, 2020S, 2022F)</li>
+  <li>Hanyang Brain Scholarship (2019S, 2019F, 2020S, 2022F)</li>
 </ul>
 
 
