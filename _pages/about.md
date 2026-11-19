@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware Vision-Language-Action models for autonomous driving and robotics, with an emphasis on latent reasoning, metacognition-driven reasoning adaptation, and safe decision-making.
+I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware VLA for autonomous driving and robotics, with an emphasis on latent reasoning, reasoning adaptation, and safe decision-making.
 
 
 ### Publications
@@ -23,7 +23,7 @@ I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST),
       <b>Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving</b><br/>
       <span style="font-size: 0.9em;"><u>Hayeon Oh</u>, Donghwan Lee</span><br/>
       <span style="font-size: 0.85em;"><i>Advances in Neural Information Processing Systems (NeurIPS), 2026</i></span><br/>
-      <a href="">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="https://ophd-hahao.github.io/projects/Rethink-CF">project page</a> 
+      <a href="https://arxiv.org/abs/2611.24376">paper</a> | <a href="https://github.com/OPhD-hahao/Rethink-CF">github</a>  | <a href="https://ophd-hahao.github.io/projects/Rethink-CF">project page</a> 
     </div>
 </div>
 
