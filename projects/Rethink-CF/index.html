@@ -290,9 +290,8 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       margin: 1rem auto 0;
       border-radius: 2px;
     }
-
-    /* Abstract Box */
-    .abstract-box {
+    /* TL;DR box */
+    .tldr-box {
       background: linear-gradient(135deg, #f8fafc, #f1f5f9);
       border-left: 5px solid var(--primary);
       padding: 2rem;
@@ -301,7 +300,7 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
     }
 
-    .abstract-box p {
+    .tldr-box p {
       color: var(--text-secondary);
       font-size: 1.05rem;
       line-height: 1.8;
@@ -409,8 +408,8 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       line-height: 1.6;
     }
 
-    /* Method Section */
-    .method-overview {
+    /* problem_setting Section */
+    .problem_setting-overview {
       background: var(--card-bg);
       border-radius: 20px;
       padding: 2.5rem;
@@ -533,8 +532,8 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       line-height: 1.6;
     }
 
-    /* Results Section */
-    .results-highlight {
+    /* preliminaries Section */
+    .preliminaries-highlight {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 1.5rem;
@@ -542,7 +541,7 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
     }
 
     @media (max-width: 768px) {
-      .results-highlight {
+      .preliminaries-highlight {
         grid-template-columns: 1fr;
       }
     }
@@ -941,11 +940,14 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
   <nav class="toc-container">
     <h4>Contents</h4>
     <ul>
-      <li><a href="#abstract">Abstract</a></li>
+      <li><a href="#tldr">TL;DR</a></li>
       <li><a href="#motivation">Motivation</a></li>
-      <!-- <li><a href="#contributions">Contributions</a></li> -->
-      <li><a href="#method">Method</a></li>
-      <li><a href="#results">Results</a></li>
+      <li><a href="#problem_setting">Problem Setting</a></li>
+      <li><a href="#preliminaries">Preliminaries</a></li>
+      <li><a href="#RQ">Research Questions</a></li>
+      <li><a href="#Extended_Analysis">Extended Analysis</a></li>
+      <li><a href="#takeaways">Takeaways</a></li>
+      <li><a href="#conclusion">Conclusion</a></li>
       <li><a href="#bibtex">BibTeX</a></li>
     </ul>
   </nav>
@@ -999,7 +1001,7 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
         <!-- Publication Links -->
         <div class="publication-links animate-in delay-4">
           <span class="link-block">
-            <a href="" class="arxiv-link">
+            <a href="https://arxiv.org/abs/2611.24376" class="arxiv-link">
               <i class="ai ai-arxiv"></i>
               <span>Paper</span>
             </a>
@@ -1027,25 +1029,29 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
   <div style="display: flex; flex-direction: column; align-items: center; margin-top: 10px; margin-bottom: 20px;">
     <div class="publication-logos" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-        <img src="/projects/Rethink-CF/assets/Rethink-CF_summary.png" 
-              alt="LookOutSide" 
+        <img src="/projects/project_page_under_construction.jpg" 
+              alt="Summary" 
               style="height: 300px; width: auto; object-fit: contain;">
 
     </div>
   </div>
 
-  <!-- Abstract Section -->
-  <section class="section" id="abstract">
+  <!-- TL;DR Section -->
+  <section class="section" id="tldr">
     <div class="container is-max-desktop">
-      <h2 class="section-title">Abstract</h2>
+      <h2 class="section-title">TL;DR</h2>
       
-      <div class="abstract-box">
+      <div class="tldr-box">
         <p>
-          End-to-end autonomous driving systems have been shown to suffer from shortcut learning and causal confusion, limiting their ability to generalize robustly under distribution shift. To mitigate these limitations, recent works based on Vision-Language Models (VLMs) have explored incorporating linguistic reasoning capabilities into driving decision-making, reporting improvements in driving performance. In particular, counterfactual (CF) reasoning has been proposed to enable self-reflective, high-level causal understanding. However, it remains unclear whether the language-based reasoning mitigates shortcut learning or merely shifts it from visual representations to linguistic patterns, creating an illusion of causal understanding. Moreover, existing approaches often conflate intervention-based reasoning with CF reasoning, leaving the effects of genuine CF reasoning unexplored. In this work, we examine what CF reasoning actually induces in VLM-based autonomous driving and observe that it shifts the action distribution toward more conservative behaviors while increasing uncertainty in reasoning and decision-making. This effect persists under reinforcement fine-tuning, suggesting that it is not merely a transient artifact. Furthermore, visual attention analysis shows that CF reasoning does not alter visual grounding, while causal intervention experiments reveal that masking causally relevant and non-causal factors in accident scenarios results in comparable decision change rates. Overall, these results suggest that CF reasoning does not induce genuine causal reasoning grounded in visual evidence. Instead, it acts as a linguistic shortcut that reshapes the action distribution, teaching models what to say but not how to reason, highlighting a gap between language-based reasoning and causal understanding in autonomous driving.
+          <!-- (전하고 싶은 말을 간략하게!) <br>
+          1. linguistic shortcut <br>
+          2. 기존의 driving score 기반 평가 방식 재고의 중대함을 보고 <br>
+          2. causal reasoning 이라는 방대한 문제를 해결하려면  -->
         </p>
       </div>
     </div>
   </section>
+
 
 
   <!-- BibTeX Section -->
