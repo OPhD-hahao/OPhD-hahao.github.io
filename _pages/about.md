@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware VLA for autonomous driving and robotics, with an emphasis on latent reasoning, reasoning adaptation, and safe decision-making.
+I'm a Ph.D student at Korea Advanced Institute of Science and Technology (KAIST), advised by [Prof. Donghwan Lee](https://scholar.google.com/citations?user=OpuJ-i4AAAAJ&hl=en). My research focuses on developing adaptive and uncertainty-aware VLA for autonomous driving and robotics, with an emphasis on latent reasoning, reasoning adaptation, and safe decision-making.
 
 
 ### Publications
