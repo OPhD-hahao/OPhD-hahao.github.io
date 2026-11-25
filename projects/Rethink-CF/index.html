@@ -1025,16 +1025,13 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
     </div>
   </section>
 
-
-  <div style="display: flex; flex-direction: column; align-items: center; margin-top: 10px; margin-bottom: 20px;">
+  <!-- <div style="display: flex; flex-direction: column; align-items: center; margin-top: 10px; margin-bottom: 20px;">
     <div class="publication-logos" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
         <img src="/projects/project_page_under_construction.jpg" 
               alt="Summary" 
               style="height: 300px; width: auto; object-fit: contain;">
-
     </div>
-  </div>
+  </div> -->
 
   <!-- TL;DR Section -->
   <section class="section" id="tldr">
@@ -1043,10 +1040,14 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       
       <div class="tldr-box">
         <p>
-          <!-- (전하고 싶은 말을 간략하게!) <br>
-          1. linguistic shortcut <br>
-          2. 기존의 driving score 기반 평가 방식 재고의 중대함을 보고 <br>
-          2. causal reasoning 이라는 방대한 문제를 해결하려면  -->
+          <!-- E2E 주행에서 World Model이 물리적 인과(physical causation)를 위해 등장했다면, VLM은 의미론적 인과와 인과 추론을 위해 도입되었고, 
+          이에 따라 CoT, CoC, CF Reasoning 같은 텍스트 기반 추론 연구가 활발히 이어져 왔다. 
+          그러나 E2E 주행의 causal confusion과 shortcut learning이 VLM 기반 주행에서도 언어 수준으로 옮겨올 수 있다는 문제의식은 부족했고, 
+          본 연구는 이를 ‘Linguistic Shortcut’으로 정의하며 Driving Score 중심 평가에서 벗어나 행동 분포와 추론 과정을 직접 분석하는 평가 방식을 제안한다. -->
+          While world models emerged in end-to-end (E2E) driving to capture physical causation, VLMs were introduced to model semantic causation and facilitate causal reasoning, 
+          leading to extensive research on text-based reasoning paradigms such as Chain-of-Thought (CoT), Chain-of-Causation (CoC), and Counterfactual (CF) Reasoning. 
+          However, limited attention has been paid to the possibility that causal confusion and shortcut learning observed in conventional E2E driving may also manifest at the linguistic level in VLM-based driving. 
+          We define this phenomenon as <b>Linguistic Shortcut</b> and, going beyond driving performance metrics, analyze action distribution, reasoning exploration, and decision changes under causal interventions.
         </p>
       </div>
     </div>
