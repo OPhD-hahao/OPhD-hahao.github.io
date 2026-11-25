@@ -1040,14 +1040,13 @@ Rethinking Counterfactual Reasoning in Autonomous Driving</title>
       
       <div class="tldr-box">
         <p>
-          <!-- E2E 주행에서 World Model이 물리적 인과(physical causation)를 위해 등장했다면, VLM은 의미론적 인과와 인과 추론을 위해 도입되었고, 
-          이에 따라 CoT, CoC, CF Reasoning 같은 텍스트 기반 추론 연구가 활발히 이어져 왔다. 
-          그러나 E2E 주행의 causal confusion과 shortcut learning이 VLM 기반 주행에서도 언어 수준으로 옮겨올 수 있다는 문제의식은 부족했고, 
-          본 연구는 이를 ‘Linguistic Shortcut’으로 정의하며 Driving Score 중심 평가에서 벗어나 행동 분포와 추론 과정을 직접 분석하는 평가 방식을 제안한다. -->
-          While world models emerged in end-to-end (E2E) driving to capture physical causation, VLMs were introduced to model semantic causation and facilitate causal reasoning, 
-          leading to extensive research on text-based reasoning paradigms such as Chain-of-Thought (CoT), Chain-of-Causation (CoC), and Counterfactual (CF) Reasoning. 
-          However, limited attention has been paid to the possibility that causal confusion and shortcut learning observed in conventional E2E driving may also manifest at the linguistic level in VLM-based driving. 
-          We define this phenomenon as <b>Linguistic Shortcut</b> and, going beyond driving performance metrics, analyze action distribution, reasoning exploration, and decision changes under causal interventions.
+          While world models have emerged in end-to-end (E2E) driving to capture physical causation, vision-language models (VLMs) have been introduced to model semantic causation and facilitate causal reasoning. 
+          This has led to research paradigm on reasoning through language for decision-making, including Chain-of-Thought (CoT), Chain-of-Causation (CoC), and Counterfactual (CF) Reasoning. 
+          However, whether the causal confusion<sup>[<a href="https://arxiv.org/abs/2308.00398">1</a>]</sup> and shortcut learning<sup>[<a href="https://kesai.eu/blog/2026-06-26-lead/">2</a>, <a href="https://arxiv.org/abs/2312.03031">3</a>]</sup> observed in E2E driving also manifest in VLM-based driving remains unexplored. 
+          To investigate this, we examine how CF reasoning, which represents the highest level of causal inference<sup>[<a href="https://d1wqtxts1xzle7.cloudfront.net/84468205/35a8d542d40b569f13c7403cd63728505ca3-libre.pdf?1650379097=&response-content-disposition=inline%3B+filename%3DThe_Book_of_Why_The_New_Science_of_Cause.pdf&Expires=1795604388&Signature=SJtvvZALpQ56JiyU6KcR~0mVvdIfNbrqPp2O22Di1TzK35-4aIsegCYukY5i~dSXbyAjECP0yUYY9AYkRhHt94~YL4eeMOwTcZllDD-ADjNwTtxQmO00iYXzRmKN3bjNNd-KUNk2or92d~~hfew3bLnyH7thhaBS2mYBrV8~zHg-9FB18Wpes571yS0JT6H3NW35V5I1dHmcckrAb6ubjlwL1lura3SX2eRBxMHDJPRZB0Mp-IABRAS~ViZKlUDdZ6-n2m6QKTjMlnUgMOrVbUSYuS4QBuZM-E058stF5CAAQ8aJKcUMn5ULmDjxq9XHHjvmdYmaei4J8bJ-nnKQ4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">3</a>]</sup>, shapes driving policies. 
+          Moving beyond driving performance, we analyze its effects through action distribution shift, reasoning exploration, and visual and causal grounding. 
+          In conclusion, we identify shortcut learning in VLM-based driving policies and define this phenomenon as <b>Linguistic Shortcut</b>. 
+          Our findings reveal that CF reasoning can teach VLMs what to say, but not how to reason.
         </p>
       </div>
     </div>
