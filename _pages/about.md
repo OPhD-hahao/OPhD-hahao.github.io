@@ -99,7 +99,7 @@ I'm a Ph.D student at Korea Advanced Institute of Science and Technology (KAIST)
 
 ---
 
-- Conference Reviewer : ICML 2026, NeurIPS 2026, AAAI 2027
+- Conference Reviewer : ICML'26-27, NeurIPS'26, AAAI'27
 - Journal Reviewer : IEEE Transactions on Intelligent Vehicles (T-IV)
 
 
